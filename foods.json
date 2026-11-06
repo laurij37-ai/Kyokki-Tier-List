@@ -32,8 +32,8 @@
     "name_en": "Smoked Reindeer Soup",
     "category": "Keitot (Soups)",
     "diet": "L,G",
-    "elo": 1500,
-    "matches": 0
+    "elo": 1484,
+    "matches": 1
   },
   {
     "id": 5,
@@ -41,7 +41,7 @@
     "name_en": "Yogurt Dream Dessert",
     "category": "Jälkiruoat & Kahvileivät (Desserts)",
     "diet": "L,G",
-    "elo": 1500,
-    "matches": 0
+    "elo": 1516,
+    "matches": 1
   }
 ]

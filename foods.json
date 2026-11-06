@@ -5,8 +5,8 @@
     "name_en": "Beef / Meat Soup",
     "category": "Keitot (Soups)",
     "diet": "M,G",
-    "elo": 1530,
-    "matches": 8
+    "elo": 1543,
+    "matches": 9
   },
   {
     "id": 2,
@@ -41,7 +41,7 @@
     "name_en": "Yogurt Dream Dessert",
     "category": "Jälkiruoat & Kahvileivät (Desserts)",
     "diet": "L,G",
-    "elo": 1460,
-    "matches": 5
+    "elo": 1447,
+    "matches": 6
   }
 ]

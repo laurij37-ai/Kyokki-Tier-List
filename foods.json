@@ -5,8 +5,8 @@
     "name_en": "Beef / Meat Soup",
     "category": "Keitot (Soups)",
     "diet": "M,G",
-    "elo": 1551,
-    "matches": 18
+    "elo": 1566,
+    "matches": 19
   },
   {
     "id": 3,
@@ -14,7 +14,7 @@
     "name_en": "Finnish Pyttipannu",
     "category": "Liha (Beef & Pork)",
     "diet": "L,G",
-    "elo": 1538,
-    "matches": 21
+    "elo": 1523,
+    "matches": 22
   }
 ]

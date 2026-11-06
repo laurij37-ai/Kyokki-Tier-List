@@ -9,15 +9,6 @@
     "matches": 10
   },
   {
-    "id": 2,
-    "name_fi": "AURAJUUSTOBROILERIA",
-    "name_en": "Aura Blue Cheese Chicken",
-    "category": "Linnut (Poultry)",
-    "diet": "L,G",
-    "elo": 1522,
-    "matches": 5
-  },
-  {
     "id": 3,
     "name_fi": "PYTTIPANNU",
     "name_en": "Finnish Pyttipannu",
@@ -26,22 +17,3 @@
     "elo": 1564,
     "matches": 13
   },
-  {
-    "id": 4,
-    "name_fi": "SAVUPOROKEITTO",
-    "name_en": "Smoked Reindeer Soup",
-    "category": "Keitot (Soups)",
-    "diet": "L,G",
-    "elo": 1442,
-    "matches": 4
-  },
-  {
-    "id": 5,
-    "name_fi": "JOGURTTIUNELMA",
-    "name_en": "Yogurt Dream Dessert",
-    "category": "Jälkiruoat & Kahvileivät (Desserts)",
-    "diet": "L,G",
-    "elo": 1447,
-    "matches": 6
-  }
-]

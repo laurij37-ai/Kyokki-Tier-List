@@ -23,8 +23,8 @@
     "name_en": "Finnish Pyttipannu",
     "category": "Liha (Beef & Pork)",
     "diet": "L,G",
-    "elo": 1571,
-    "matches": 11
+    "elo": 1583,
+    "matches": 12
   },
   {
     "id": 4,
@@ -41,7 +41,7 @@
     "name_en": "Yogurt Dream Dessert",
     "category": "Jälkiruoat & Kahvileivät (Desserts)",
     "diet": "L,G",
-    "elo": 1472,
-    "matches": 4
+    "elo": 1460,
+    "matches": 5
   }
 ]

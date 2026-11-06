@@ -144,6 +144,14 @@ if "foods" in st.session_state and st.session_state.foods:
 
 
     # --- TAB 2: LEADERBOARD ---
+    # Add an optional auto-refresh toggle in the Leaderboard tab
+    if st.checkbox("Auto-refresh leaderboard every 10s"):
+        import time
+        time.sleep(10)
+        st.session_state.foods, st.session_state.sha = get_github_data()
+        st.rerun()
+    
+    
     with tab_rankings:
         st.subheader("Global Leaderboard")
         
